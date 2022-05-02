@@ -10,10 +10,10 @@ We will use unsupervised learning since there is no known outputs for these data
 
 Five hundred and thirty two tradable cryptocurrencies were evaluated. Using an Elbow Curve to determine the best K value, we decided that four was the appropriate number of clusters to create. The K-Means model returned the following groupings for our cryptocurrencies:
 
-- Group 0    285
-- Group 1      6
-- Group 2      1
-- Group 3    240
+- Group 0:    285
+- Group 1:      6
+- Group 2:      1
+- Group 3:    240
 
 ## Summary
 

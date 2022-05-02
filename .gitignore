@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+crypto_clustering_starter_code(1).ipynb
+
 # Distribution / packaging
 .Python
 build/
